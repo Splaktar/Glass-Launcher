@@ -1,5 +1,5 @@
-/assets
-/bin
-/gen
-/libs
-/.settings
+.gradle
+/local.properties
+.DS_Store
+.idea/
+app/build/
